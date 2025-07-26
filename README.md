@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush Guragain
+🎯 Passionate about Full Stack & Backend Development  
+📚 Currently learning: Microservices, Kafka, Spring Security.
+🚀 Projects: Hotel Management System, Microservice based Secure Portal.  
+💬 Ask me about Java, Spring Boot, AWS, Docker, Jenkins, Angular. 
 
-<!--
-**2023ayush/2023ayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Languages: Java, JavaScript, TypeScript  
+- ⚙️ Backend: Spring Boot
+- 🌐 Frontend: Angular  
+- 🛢️ Databases: MySQL  
+- ☁️ DevOps: Docker, AWS, Jenkins 
+- 📈 Tools: Git, Postman, Maven, VS Code  
+
+---
